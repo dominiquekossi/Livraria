@@ -9,7 +9,7 @@ The project implements full **CRUD operations** (Create, Read, Update, Delete) a
 - **Entity Framework Core**  
 - **ASP.NET Core Web API**  
 - **C#**  
-- **PostgreSQL** (or another relational database)  
+- **PostgreSQL 
 - **Swagger** (API documentation)  
 
 ---
